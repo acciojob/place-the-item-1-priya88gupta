@@ -1,2 +1,86 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	grid 
+	flex-direction:column-reverse;
+	justify-content:space-between;
+	flex-wrap: wrap;
+	height:100vh;
+	width:20wh;
+	
+}
+.item-3{
+	background-color:green;
+	height:100px;
+	width:100px;
+	font-size:40px;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.item-1{
+	background-color:red;
+	height:100px;
+	width:100px;
+	font-size:40px;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.item-2{
+	background-color:blue;
+	height:100px;
+	width:100px;
+	font-size:40px;
+}
+.holder2{
+	display:flex;
+	grid 
+	flex-direction:column-reverse;
+	justify-content:space-between;
+	flex-wrap: wrap;
+	height:100vh;
+	width:100wh;
+	}
+.grid-item-3{
+	background-color:green;
+	height:100px;
+	width:100px;
+	font-size:40px;
+}
+.grid-item-4{
+	background-color:green;
+	height:100px;
+	width:100px;
+	font-size:40px;
+
+}
+.grid-item-5{
+	background-color:green;
+	height:100px;
+	width:100px;
+	font-size:40px;
+}
+.grid-item-6{
+	background-color:green;
+	height:100px;
+	width:100px;
+	font-size:40px;
+}
+.grid-item-7{
+	background-color:green;
+	height:100px;
+	width:100px;
+	font-size:40px;
+}
+.grid-item-1{
+	background-color:red;
+	height:100px;
+	width:100px;
+	font-size:40px;
+}
+.grid-item-2{
+	background-color:blue;
+	height:100px;
+	width:100px;
+	font-size:40px;
+}
